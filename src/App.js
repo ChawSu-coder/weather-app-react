@@ -53,7 +53,7 @@ function App() {
       </div>
       <small>
         <a
-          href="https://github.com/ChawSu-coder/Vanilla-weather-app"
+          href="https://github.com/ChawSu-coder/weather-app-react"
           target="_blank"
           alt="github link"
           rel="noreferrer"
